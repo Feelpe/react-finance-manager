@@ -1,6 +1,6 @@
 # Money management  
 
-A project for money management using React with typescript and stilizing with styled-components.
+A project for money management using React with typescript and stylized with styled-components.
 
 ## Running the app
 
