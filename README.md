@@ -1,5 +1,6 @@
 # Money management  
 
+## Description
 A project for money management using React with typescript and stylized with styled-components.
 
 ## Running the app
@@ -14,7 +15,7 @@ yarn
   $ yarn install
 
   # development mode
-  $ yarn dev
+  $ yarn start
 ```
 
 Runs the app in the development mode. \
