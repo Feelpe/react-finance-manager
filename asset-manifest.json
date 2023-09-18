@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/react-finance-manager/static/js/main.1220f82f.js",
+    "static/media/logo.svg": "/react-finance-manager/static/media/logo.b30f412fc67700e5ef5726925817aa0c.svg",
+    "static/media/total.svg": "/react-finance-manager/static/media/total.285fe24bec5f3b01661e234714fe72bb.svg",
+    "index.html": "/react-finance-manager/index.html",
+    "static/media/outcome.svg": "/react-finance-manager/static/media/outcome.34032f7e9060f1a67e2710ec3d753cad.svg",
+    "static/media/income.svg": "/react-finance-manager/static/media/income.6106d85671783226723dbb677abed275.svg",
+    "static/media/close.svg": "/react-finance-manager/static/media/close.db04ce19efa93a055fada098f39bd27e.svg",
+    "main.1220f82f.js.map": "/react-finance-manager/static/js/main.1220f82f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1220f82f.js"
+  ]
+}
