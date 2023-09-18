@@ -2,6 +2,8 @@
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+![ProjectImage](https://i.imgur.com/TuM8iGL.png)
+
 ## Project Description
 
 The Money Management Project is a web application built to manage finances. It is created using React, TypeScript, and styled-components, offering a user-friendly interface to track your income, expenses, and overall finances.
